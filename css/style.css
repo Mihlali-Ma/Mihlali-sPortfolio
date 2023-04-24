@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+:root{
+    --primaryColor:black;
+    --secondaryColor: white;
+    --alternativeColor:gray;
+    --borderColor:#afd1f7;
+    font-family: 'Poppins', sans-serif,cursive;
+9+89999999999999999999999+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+}
+
+#logo{
+    height: 15rem;
+    width: 15rem;
+}
